@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // 3. Countdown Timer
   // Placeholder target date: Modify this to the real event date
-  const targetDate = new Date('2026-09-15T09:00:00+05:30').getTime();
+  const targetDate = new Date('2026-08-13T09:00:00+05:30').getTime();
   
   const daysEl = document.getElementById('cd-days');
   const hoursEl = document.getElementById('cd-hours');
